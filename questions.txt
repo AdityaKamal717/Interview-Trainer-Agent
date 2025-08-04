@@ -1,0 +1,35 @@
+give me 5 interview question for java developers
+ 1. What is the difference between == and .equals() in Java?
+Tip: Talk about reference comparison vs. content comparison, and mention how equals() is often overridden in custom classes like String.
+
+🔹 2. Explain the concept of Java memory management. How does Garbage Collection work?
+Tip: Mention heap, stack, JVM memory areas, GC algorithms (like Mark and Sweep), and how Java handles object lifecycle.
+
+🔹 3. What are the main features of Java 8?
+Expected Points:
+
+Lambda Expressions
+
+Streams API
+
+Functional Interfaces
+
+Optional Class
+
+Default Methods in Interfaces
+
+🔹 4. How does multithreading work in Java? What are the differences between Runnable and Thread?
+Tip: Explain thread lifecycle, synchronization, race conditions, and the difference in implementing Runnable vs extending Thread.
+
+🔹 5. What are design patterns in Java? Can you explain one you have used?
+Good Examples:
+
+Singleton
+
+Factory
+
+Observer
+
+Builder
+
+Tip: Try to describe one real-life example you implemented.
